@@ -1,0 +1,1 @@
+C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_modulusofNumbers\target\debug\modulus_numbers.exe: C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_modulusofNumbers\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_subtractNumbers\target\debug\rust-SubNumbers.exe: C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_subtractNumbers\src\main.rs

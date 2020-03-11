@@ -1,0 +1,1 @@
+C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_multiplyNumbers\target\debug\mul_numbers.exe: C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_multiplyNumbers\src\main.rs

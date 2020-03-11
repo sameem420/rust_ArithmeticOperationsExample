@@ -1,0 +1,1 @@
+C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_divideNumbers\target\debug\divide_numbers.exe: C:\Users\root\Documents\GitHub\rust_ArithmeticOperationsExample\rust_divideNumbers\src\main.rs
